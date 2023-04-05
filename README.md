@@ -1,1 +1,1 @@
-# SeniorHonoursProjectWavefunctions
+# Senior Honours Project Wavefunctions
